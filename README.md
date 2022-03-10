@@ -2,10 +2,10 @@
 
 <h1> Hello </h1>
 <p>- 👋 Hi, I’m @MurilloMB</p>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<p>- 👀 I’m interested in ...</p>
+<p>- 🌱 I’m currently learning ...</p>
+<p>- 💞️ I’m looking to collaborate on ...</p>
+<p>- 📫 How to reach me ...</p>
 
 <!---
 MurilloMB/MurilloMB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
